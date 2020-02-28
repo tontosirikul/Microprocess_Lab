@@ -1,0 +1,1 @@
+The reason why using delay and RTC is not the same because delay summing the error in each line of code it will most sigificant when we are running the program for a long time.
